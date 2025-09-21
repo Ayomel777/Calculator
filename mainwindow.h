@@ -19,5 +19,9 @@ public:
 
 private:
     Ui::MainWindow *ui;
+
+private slots:
+    void digitsNumbers();
+
 };
 #endif // MAINWINDOW_H
