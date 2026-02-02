@@ -82,7 +82,6 @@ void MainWindow::operations()
         ui->lbResult->setText(new_lable);
     }
 
-
 }
 
 void MainWindow::on_pushButton_Dot_clicked()
